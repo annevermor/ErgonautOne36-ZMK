@@ -68,7 +68,7 @@
 
         Mouse4 {
             bindings = <&mkp MB4>;
-            key-positions = <14 16>;
+            key-positions = <14 16 15>;
         };
     };
 
